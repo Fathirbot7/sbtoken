@@ -1,0 +1,248 @@
+
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] unhashable type: 'Contact'
+[<module 'time' (built-in)>] unhashable type: 'Contact'
+[<module 'time' (built-in)>] unhashable type: 'Contact'
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] unhashable type: 'Contact'
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] 'HOEE NGAPAIN NGETAG NGAJAK KOJOM YA'
+[<module 'time' (built-in)>] 'HOEE NGAPAIN NGETAG NGAJAK KOJOM YA'
+[<module 'time' (built-in)>] 'HOEE NGAPAIN NGETAG NGAJAK KOJOM YA'
+[<module 'time' (built-in)>] 'HOEE NGAPAIN NGETAG NGAJAK KOJOM YA'
+[<module 'time' (built-in)>] 'HOEE NGAPAIN NGETAG NGAJAK KOJOM YA'
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] 'autotext'
+[<module 'time' (built-in)>] 'autotext'
+[<module 'time' (built-in)>] 'autotext'
+[<module 'time' (built-in)>] 'autotext'
+[<module 'time' (built-in)>] 'autotext'
+[<module 'time' (built-in)>] 'autotext'
+[<module 'time' (built-in)>] 'autotext'
+[<module 'time' (built-in)>] 'autotext'
+[<module 'time' (built-in)>] 'autotext'
+[<module 'time' (built-in)>] 'autotext'
+[<module 'time' (built-in)>] 'autotext'
+[<module 'time' (built-in)>] 'autotext'
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] name 'g' is not defined
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] name 'g' is not defined
